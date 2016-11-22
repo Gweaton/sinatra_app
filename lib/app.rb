@@ -9,7 +9,7 @@ get '/random-cat' do
   erb(:index)
 end
 
-get '/named-cat' do
+get '/cat-form' do
   erb(:index)
 end
 
